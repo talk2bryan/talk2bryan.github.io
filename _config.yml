@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bryan Wodi"
 title_separator          : "-"
 name                     : &name "Bryan Wodi"
-description              : &description "M.Sc. Computer Science student at the University of Manitoba."
+description              : &description "M.Sc. in Computer Science from the University of Manitoba."
 url                      : https://talk2bryan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "talk2bryan.github.io"
@@ -79,12 +79,12 @@ analytics:
 author:
   name             : "Bryan Wodi"
   avatar           : "profile.png"
-  bio              : "M.Sc. student in the Dept. of Computer Science, University of Manitoba."
-  location         : "Winnipeg, Manitoba"
+  bio              : "M.Sc. in Computer Science from the University of Manitoba."
+  location         : "North America"
   employer         : 
   googlescholar    : "https://scholar.google.ca/citations?user=rDiIWTQAAAAJ&hl=en"
-  email            : "wodi@cs.umanitoba.ca"
-  uri              : 
+  email            : "githubio.thing457@aleeas.com"
+  uri              : "https://ieeexplore.ieee.org/author/37086469275"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,13 +97,13 @@ author:
   instagram        : 
   lastfm           :
   linkedin         : "bryanwodi"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0005-4246-6954"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "talktobryan"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
