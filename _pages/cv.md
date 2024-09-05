@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, University of Manitoba, 2020 (expected)
+* M.Sc. in Computer Science, University of Manitoba, 2022
+  * Published a thesis on the use of a hybrid database (MySQL and Graph) in supporting transportation data analytics
 
 * B.Sc. in Computer Science (Major Co-Op), University of Manitoba, 2018
   * Computer Science concentrations in Software Engineering and Databases
   * Minors in Economics and Statistics
 
-Work experience
+Work experience (not up-to-date, check LinkedIn)
 ======
 * Fall 2018: Teaching Assistant
   * Dept. of Computer Science, University of Manitoba
@@ -45,19 +46,19 @@ Work experience
 Skills
 ======
 * Programming Languages
-  * Java, C/C++, Haxe, Python, HTML/CSS, Javascript, SQL, R, Ruby
+  * Python, Java, C/C++, Haxe, HTML/CSS, Javascript, SQL, R, Ruby
 * Frameworks
-  * Rails, CUDA, ROBOTIS
+  * Poetry, FastAPI, Spring, Rails, CUDA, ROBOTIS
 * Databases
-  * MySQL, HSQLDB
+  * MySQL, SQL Server, Amazon Neptune
 * DevOps
-  * Nginx, AWS, Docker, Vagrant, Capistrano, TravisCI
+  * GitHub Actions, Bitbucket Pipes, Nginx, Docker, Vagrant, Capistrano, TravisCI
 * Operating Systems
   * \*nix, Windows
 * Version Control
-  * Git, Perforce, svn
+  * Git, Perforce
 * Miscellenous
-  * Jira, JProfiler, OpenCV, gdb, intelliJ, VS Code
+  * Jira, JProfiler, OpenCV, gdb, pdb, clang
 
 Publications
 ======
@@ -70,7 +71,7 @@ Publications
   {% endfor %}</ul>
   
   
-Teaching Assistant Roles
+Teaching Roles
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
