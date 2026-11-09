@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Bryan. I'm a software engineer who builds tools to get rid of tedious
+Hi, I'm Bryan. I'm a computer scientist and software engineer who builds tools to get rid of tedious
 work: scripts, CLIs and small services that take something messy and make it
 just work. If I have to do something by hand twice, I usually end up writing a
 tool for it.
@@ -52,7 +52,7 @@ from the [University of Manitoba](https://umanitoba.ca), Canada. My thesis
 looked at using a hybrid of a relational and a graph database to support
 transportation data analytics. I taught in the department as a sessional
 instructor, and before that I was a teaching assistant for 14 courses between
-2014 and 2018 (see [Teaching](/teaching/)). I still enjoy explaining things
+2014 and 2020 (see [Teaching](/teaching/)). I still enjoy explaining things
 and pairing with people who are learning.
 
 My interests: Python, software and systems engineering, tooling, DevOps and
@@ -64,8 +64,10 @@ Let's build something
 I welcome collaborations, especially on projects that free people from
 companies trying to lock them into an ecosystem: export and migration tools,
 open formats, self-hostable alternatives, and anything that makes switching
-platforms painless. Find me on [GitHub](https://github.com/talk2bryan) or
-[LinkedIn](https://www.linkedin.com/in/bryanwodi).
+platforms painless. If you're working on something like that, or have an
+idea, start a thread in
+[Discussions](https://github.com/talk2bryan/talk2bryan/discussions) on GitHub.
+For anything private, email me at the address in the sidebar.
 
 If something I built saved you some time, you can
 [buy me a coffee on Ko-fi](https://ko-fi.com/barefootedbryan) ☕
